@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/comandos/Command.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/dominio/TareaRecurrente.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/comandos/CrearTareaCommand.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/comandos/EliminarTareaCommand.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/comandos/EditarTareaCommand.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/servicio/GestorComandos.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/servicio/SortByFecha.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/persistencia/TaskRepository.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/servicio/TaskService.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/persistencia/TaskRepositoryBin.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/dominio/TareaConDeadline.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/comandos/CompletarTareaCommand.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/servicio/SortByPrioridad.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/dominio/Prioritizable.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/ui/MainFrame.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/Main.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/servicio/SortByTitulo.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/servicio/SortingStrategy.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/dominio/TareaSimple.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/dominio/Tarea.java</file>
+            <file>file:/C:/Users/SENA/Documents/NetBeansProjects/TonDoApp/src/dominio/Completable.java</file>
+        </group>
+    </open-files>
+</project-private>
